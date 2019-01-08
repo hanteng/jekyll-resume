@@ -2,18 +2,18 @@
 
 # Site settings
 title: Jekyll Resume
-email: email@domain.com
+email: 2334708709@qq.com
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
-baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
+baseurl: "/jekyll-resume"
+url: "https://bakasui.gitee.io"
 name: Shuyu Chen
-job: student
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
-twitter_username: mattcouchman
-github_username:  mattcouchman
-codepen_username:  mattcouchman
-email_address: some@email.com
+job: college student
+location: Ningde, China
+languages: Ongniel, Wanna One and Choi minho
+twitter_username: Minielong
+github_username:  bakasui
+codepen_username:  nothing
+email_address: 2334708709@qq.com
 
 # Build settings
 markdown: kramdown
